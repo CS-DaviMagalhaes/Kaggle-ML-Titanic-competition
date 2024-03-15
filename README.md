@@ -16,3 +16,6 @@ I also tried combinations between those versions. All of them got me a worse sco
 Investigating further on kaggle's discord I've found that this is a good score using only this dataset and a single model.
 Higher scores on the competition were generally obtained by merging the training set with another external dataset, ensembling ML models or just straight up submitting the answer to get 100% accuracy. 
 Since it's my first ML project I'm pretty happy.
+
+**The paths and directories for the training, test, and output files are the ones I had on Kaggle's code editor, I just downloaded the files that I submitted on Kaggle's platform.**
+If you want to run this code make sure to change the directories to where you have the training and test datasets.
