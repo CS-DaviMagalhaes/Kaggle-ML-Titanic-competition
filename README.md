@@ -1,4 +1,4 @@
-This was my first ML project, part of a introduction competition on kaggle titled *Titanic - Machine Learning from Disaster*. I've done this just after reading the second chapter of the book *Hands-On Machine Learning with Scikit-Learn,
+This was my **first ML project**, part of a introduction competition on kaggle titled *Titanic - Machine Learning from Disaster*. I've done this just after reading the second chapter of the book *Hands-On Machine Learning with Scikit-Learn,
 Keras, and TensorFlow* by Aurélien Géron. I still have a lot to learn.
 
 Clearly there is some overfitting for the training data since my accuracy on the training test was 100% but my actual (best) submission accuracy had 77% accuracy. 
@@ -19,3 +19,5 @@ Since it's my first ML project I'm pretty happy.
 
 **The paths and directories for the training, test, and output files are the ones I had on Kaggle's code editor, I just downloaded the files that I submitted on Kaggle's platform.**
 If you want to run this code make sure to change the directories to where you have the training and test datasets.
+
+[Competition Link](https://www.kaggle.com/competitions/titanic/overview)
